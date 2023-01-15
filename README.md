@@ -1,5 +1,4 @@
 # JOISS 해양과학 빅데이터 경진대회
-## 대회 소개
 ![bigdata_contest](https://user-images.githubusercontent.com/108854903/212527714-ecd869e9-b108-4a70-bdbd-eda621ae5ae3.jpg)
 
 ## 주제: UIG 심층 해류 분석 및 예측을 통한 온난화 심각성 재고
